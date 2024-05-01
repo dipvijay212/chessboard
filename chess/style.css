@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.row1{
+    height: 100px;
+    width: 100px;
+    float: left;
+    
+   
+}
+.white{
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100px;
+   
+}
+.black{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    
+}
+.row2{
+    height: 100px;
+    width: 100px;
+    float: left;
+    
+   
+}
+.main{
+    margin: 0% 0% 0% 30%;
+}
